@@ -1,4 +1,14 @@
-# include <stdio.h>
+/*
+    >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+    >>>>>>>>>> TEMA AULA/TREINO: <<<<<<<<<<
+    <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+    
+    1. Tentando entender melhor as nuances
+    de como o C gera outputs malucos.
+*/
+
+
+# include <stdio.h> // std = STANDARD, io = INPUT/OUTPUT
 
 int main() {
 
