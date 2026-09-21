@@ -1,3 +1,14 @@
+/*
+    >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+    >>>>>>>>>> TEMA AULA/TREINO: <<<<<<<<<<
+    <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+    
+    1. Tipos básicos variáveis
+    2. Input, Output
+    3. Funções
+*/
+
+
 #include <stdio.h> // Lib. padrão para INPUTS/OUTPUTS
 
 void showUsuario(

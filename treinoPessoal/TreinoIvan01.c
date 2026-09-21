@@ -1,3 +1,15 @@
+/*
+    >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+    >>>>>>>>>> TEMA AULA/TREINO: <<<<<<<<<<
+    <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+    
+    1. Tentando entender melhor as nuances
+    de como o C interpreta comandos ligados
+    a endereços de memória, como scanf()
+    e o printf.
+*/
+
+
 # include <stdio.h>
 
 int main() {
@@ -21,6 +33,6 @@ int main() {
 
     printf("Novo valor de x: %d \n", x);    // %d espera do output um NÚMERO INTEIRO, 
                                             // caso vc adicione &+x (&x) o output será um endereço aleatório!
-                                            
+
     printf("O endereco continua sendo o mesmo: %p", &x);
 }
