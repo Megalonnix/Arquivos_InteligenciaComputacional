@@ -6,7 +6,7 @@
     1. Tentando entender melhor as nuances
     de como o C interpreta comandos ligados
     a endereços de memória, como scanf()
-    e o printf.
+    e o printf().
 */
 
 
